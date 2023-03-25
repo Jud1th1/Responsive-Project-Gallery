@@ -16,6 +16,12 @@ h4 {
 .paragraph {
     padding: 6px;
     font-weight: 200;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+a {
+  text-decoration: none;
 }
 
 div.gallery {
